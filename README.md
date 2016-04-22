@@ -8,4 +8,4 @@ Data from https://cloudfront-files-1.publicintegrity.org/offshoreleaks/csv.zip
 3. “node_countries.csv” has all the countries associated to every node. You can read more about how we associated every node to a country.
 4. “countries.csv” is a lookup list of countries and their codes from the US National Geospatial-Intelligence Agency.
 
-For the db schema (which I worked out), please see the schema.xls file at https://github.com/estar21/Swiss-Leaks/blob/master/schema.xlsx.
+For the db schema (which I worked out), please see the schema.xls file.
